@@ -24,6 +24,8 @@
 目录说明：
 
 - `roadmap/14-day-plan.md`：前 14 天计划
+- `daily/`：每日自动生成的小任务
+- `ops/daily-task-rules.md`：自动生成任务时的规则
 - `exercises/`：每日练习
 - `templates/`：每日记录模板
 
